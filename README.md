@@ -3,7 +3,7 @@
 ## Informações Gerais
 - Nome: Daniel Meireles Aquino Jorge
 - Matricula: 882875
-- Projeto Curriculo. Semana 2. Desenvolvimento de interfaces WEB.
+- Projeto de Curriculo. Semana 2. Desenvolvimento de interfaces WEB.
 
 ## Print da tela da página criado
 ![Print do curriculo](public/print.1.do.curriculo.jpg)
